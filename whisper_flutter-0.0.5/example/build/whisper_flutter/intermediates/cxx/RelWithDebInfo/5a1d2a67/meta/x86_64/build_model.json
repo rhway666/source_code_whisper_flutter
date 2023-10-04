@@ -1,0 +1,167 @@
+{
+  "abi": "X86_64",
+  "info": {
+    "abi": "X86_64",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/RelWithDebInfo/5a1d2a67/x86_64",
+  "soFolder": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/whisper_flutter/intermediates/cxx/RelWithDebInfo/5a1d2a67/obj/x86_64",
+  "soRepublishFolder": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/whisper_flutter/intermediates/cmake/release/obj/x86_64",
+  "abiPlatformVersion": 19,
+  "cmake": {
+    "effectiveConfiguration": {
+      "inheritEnvironments": [],
+      "variables": []
+    }
+  },
+  "variant": {
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx",
+      "intermediatesBaseFolder": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/whisper_flutter/intermediates",
+      "intermediatesFolder": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/whisper_flutter/intermediates/cxx",
+      "gradleModulePathName": ":whisper_flutter",
+      "moduleRootFolder": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android",
+      "moduleBuildFile": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/build.gradle",
+      "makeFile": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "ndkFolder": "/Users/shy_way/Library/Android/sdk/ndk/25.1.8937393",
+      "ndkVersion": "25.1.8937393",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkMetaPlatforms": {
+        "min": 19,
+        "max": 33,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30,
+          "S": 31,
+          "Sv2": 32,
+          "Tiramisu": 33
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/Users/shy_way/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake",
+      "cmake": {
+        "isValidCmakeAvailable": true,
+        "cmakeExe": "/Users/shy_way/Library/Android/sdk/cmake/3.18.1/bin/cmake",
+        "minimumCmakeVersion": "3.18.1"
+      },
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/shy_way/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/shy_way/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/shy_way/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/shy_way/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/android",
+        "sdkFolder": "/Users/shy_way/Library/Android/sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": [],
+      "ninjaExe": "/Users/shy_way/Library/Android/sdk/cmake/3.18.1/bin/ninja"
+    },
+    "prefabClassPaths": [],
+    "prefabPackages": [],
+    "prefabPackageConfigurations": [],
+    "stlType": "c++_static",
+    "optimizationTag": "RelWithDebInfo"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/RelWithDebInfo/5a1d2a67/prefab/x86_64",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "5a1d2a67d5w6y5r2p2d6i2x2j4wx2n4w46e1d2i2c632t2c5d36525r3b6k72",
+  "configurationArguments": [
+    "-H/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_SYSTEM_VERSION\u003d19",
+    "-DANDROID_PLATFORM\u003dandroid-19",
+    "-DANDROID_ABI\u003dx86_64",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64",
+    "-DANDROID_NDK\u003d/Users/shy_way/Library/Android/sdk/ndk/25.1.8937393",
+    "-DCMAKE_ANDROID_NDK\u003d/Users/shy_way/Library/Android/sdk/ndk/25.1.8937393",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/Users/shy_way/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake",
+    "-DCMAKE_MAKE_PROGRAM\u003d/Users/shy_way/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/whisper_flutter/intermediates/cxx/RelWithDebInfo/5a1d2a67/obj/x86_64",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/whisper_flutter/intermediates/cxx/RelWithDebInfo/5a1d2a67/obj/x86_64",
+    "-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo",
+    "-B/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/RelWithDebInfo/5a1d2a67/x86_64",
+    "-GNinja"
+  ],
+  "intermediatesParentFolder": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/whisper_flutter/intermediates/cxx/RelWithDebInfo/5a1d2a67"
+}

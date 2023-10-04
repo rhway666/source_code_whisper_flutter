@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/Debug/4o4s2iq2/arm64-v8a",
+  "command": "/Users/shy_way/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/Users/shy_way/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fPIC -fno-limit-debug-info  -fPIC -o CMakeFiles/ggml.dir/whisper.cpp/ggml.c.o -c /Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/whisper.cpp/ggml.c",
+  "file": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/whisper.cpp/ggml.c"
+},
+{
+  "directory": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/Debug/4o4s2iq2/arm64-v8a",
+  "command": "/Users/shy_way/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/Users/shy_way/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fPIC -fno-limit-debug-info  -fPIC -std=gnu++20 -o CMakeFiles/whisper.dir/whisper.cpp/whisper.cpp.o -c /Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/whisper.cpp/whisper.cpp",
+  "file": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/whisper.cpp/whisper.cpp"
+},
+{
+  "directory": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/Debug/4o4s2iq2/arm64-v8a",
+  "command": "/Users/shy_way/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --sysroot=/Users/shy_way/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDART_SHARED_LIB -Dwhisper_flutter_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fPIC -fno-limit-debug-info  -fPIC -std=gnu++20 -o CMakeFiles/whisper_flutter.dir/main.cpp.o -c /Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/main.cpp",
+  "file": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/main.cpp"
+}
+]

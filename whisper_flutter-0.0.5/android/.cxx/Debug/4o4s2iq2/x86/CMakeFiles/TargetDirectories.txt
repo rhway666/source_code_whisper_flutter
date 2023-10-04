@@ -1,0 +1,5 @@
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/Debug/4o4s2iq2/x86/CMakeFiles/rebuild_cache.dir
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/Debug/4o4s2iq2/x86/CMakeFiles/edit_cache.dir
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/Debug/4o4s2iq2/x86/CMakeFiles/ggml.dir
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/Debug/4o4s2iq2/x86/CMakeFiles/whisper.dir
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/Debug/4o4s2iq2/x86/CMakeFiles/whisper_flutter.dir

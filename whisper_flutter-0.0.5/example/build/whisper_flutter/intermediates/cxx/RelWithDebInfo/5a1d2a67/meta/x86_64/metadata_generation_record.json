@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 19 min SDK version: x86_64",
+    "file_": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/CMakeLists.txt",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1367994366
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/RelWithDebInfo/5a1d2a67/x86_64/android_gradle_build.json\u0027 was up-to-date",
+    "file_": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/CMakeLists.txt",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1775833244
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/CMakeLists.txt",
+    "tag_": "release|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1704152449
+  }
+]

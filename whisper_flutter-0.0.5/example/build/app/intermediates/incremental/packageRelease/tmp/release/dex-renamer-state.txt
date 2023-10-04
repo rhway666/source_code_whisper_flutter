@@ -1,0 +1,4 @@
+#Tue Oct 03 17:26:05 CST 2023
+base.0=/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

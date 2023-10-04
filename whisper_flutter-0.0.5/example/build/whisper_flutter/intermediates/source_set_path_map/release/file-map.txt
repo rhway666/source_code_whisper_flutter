@@ -1,0 +1,12 @@
+com.azkadev.whisper_flutter-jetified-window-java-1.0.0-beta04-0 /Users/shy_way/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.azkadev.whisper_flutter-core-1.6.0-1 /Users/shy_way/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.azkadev.whisper_flutter-jetified-annotation-experimental-1.1.0-2 /Users/shy_way/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.azkadev.whisper_flutter-jetified-window-1.0.0-beta04-3 /Users/shy_way/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.azkadev.whisper_flutter-main-4 /Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/src/main/res
+com.azkadev.whisper_flutter-release-5 /Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/src/release/res
+com.azkadev.whisper_flutter-pngs-6 /Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/whisper_flutter/generated/res/pngs/release
+com.azkadev.whisper_flutter-resValues-7 /Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/whisper_flutter/generated/res/resValues/release
+com.azkadev.whisper_flutter-rs-8 /Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/whisper_flutter/generated/res/rs/release
+com.azkadev.whisper_flutter-mergeReleaseResources-9 /Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/whisper_flutter/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.azkadev.whisper_flutter-mergeReleaseResources-10 /Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/whisper_flutter/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.azkadev.whisper_flutter-merged_res-11 /Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/whisper_flutter/intermediates/merged_res/release

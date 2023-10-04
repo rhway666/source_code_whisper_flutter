@@ -1,0 +1,5 @@
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/RelWithDebInfo/5a1d2a67/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/RelWithDebInfo/5a1d2a67/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/RelWithDebInfo/5a1d2a67/armeabi-v7a/CMakeFiles/ggml.dir
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/RelWithDebInfo/5a1d2a67/armeabi-v7a/CMakeFiles/whisper.dir
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/RelWithDebInfo/5a1d2a67/armeabi-v7a/CMakeFiles/whisper_flutter.dir

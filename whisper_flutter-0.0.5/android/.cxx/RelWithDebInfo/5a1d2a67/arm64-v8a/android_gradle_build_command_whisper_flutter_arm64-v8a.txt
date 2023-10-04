@@ -1,0 +1,7 @@
+Executable : /Users/shy_way/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/RelWithDebInfo/5a1d2a67/arm64-v8a
+whisper_flutter
+jvmArgs : 
+

@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/Debug/4o4s2iq2/x86_64'
+ninja: no work to do.

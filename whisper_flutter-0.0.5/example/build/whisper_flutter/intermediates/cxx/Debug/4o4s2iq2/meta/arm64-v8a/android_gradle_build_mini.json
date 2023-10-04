@@ -1,0 +1,39 @@
+{
+  "buildFiles": [
+    "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/src/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/shy_way/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/Debug/4o4s2iq2/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/shy_way/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/Debug/4o4s2iq2/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "whisper::@6890427a1f51a3e7e1df": {
+      "artifactName": "whisper",
+      "abi": "arm64-v8a",
+      "output": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/Debug/4o4s2iq2/arm64-v8a/libwhisper.a",
+      "runtimeFiles": []
+    },
+    "ggml::@6890427a1f51a3e7e1df": {
+      "artifactName": "ggml",
+      "abi": "arm64-v8a",
+      "output": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/android/.cxx/Debug/4o4s2iq2/arm64-v8a/libggml.a",
+      "runtimeFiles": []
+    },
+    "whisper_flutter::@6890427a1f51a3e7e1df": {
+      "artifactName": "whisper_flutter",
+      "abi": "arm64-v8a",
+      "output": "/Users/shy_way/Downloads/flutter_whisper_merge/whisper_flutter-0.0.5/example/build/whisper_flutter/intermediates/cxx/Debug/4o4s2iq2/obj/arm64-v8a/libwhisper.so",
+      "runtimeFiles": []
+    }
+  }
+}
